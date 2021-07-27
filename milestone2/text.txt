@@ -1,0 +1,6 @@
+**text cleaning**
+Removing Punctuation
+Removing White spaces
+Removing  numbers
+Removing Stopwords
+converting files content to lower case
